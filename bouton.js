@@ -9,10 +9,10 @@ const blagues = ["Le faux chevalier a volé l'armure de l'un des 5 grands cheval
                  "Si vous ne tuez pas le forgeron d'aiguillon, celui-ci rejoindra Sheo et ils formeront un couple.",
                  "L'endeuillé grise est l'un des 5 grands chevaliers d'Hallownest.",
                  "Unn, dans hollow knight,et Nuu, dans silksong, ont le même prénom mais inversé."
-                
-                ];
+                 ];
 boutonfact.addEventListener('click', ()=>{
     console.log("testttt")
     texteBlague.textContent = blagues[Math.floor(Math.random()*blagues.length)];
 
 })
+
