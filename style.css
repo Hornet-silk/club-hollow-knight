@@ -10,14 +10,14 @@ body {
     font-family:fantasy;
 }
 .image1{
-    max-height:150px;
+    max-height:25%;
     border:5px solid #802a2a;
     border-radius: 5%;
 }
 
 
 .image2{
-    max-height:150px;
+    max-height:25%;
     border:5px solid #1e3e73;
     border-radius: 5%;
 }
@@ -43,4 +43,5 @@ body {
     color:#e7e6f2;
     font-family: fantasy;
 }
+
 
